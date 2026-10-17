@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio21 {
+public class exercicio21 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         char[][] tabuleiro = new char[3][3];
