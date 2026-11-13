@@ -1,10 +1,10 @@
-package exercicio06;
+package Exercicio06;
 
 import java.util.ArrayList;
 import java.util.List;
 
 // Exercício 6: País, população, dimensão e países vizinhos
-public class exercicio06 {
+public Class Exercicio06 {
     public static void main(String[] args) {
         Pais brasil = new Pais("BRA", "Brasil", 203000000, 8515767.049);
         Pais argentina = new Pais("ARG", "Argentina", 46000000, 2780400);
