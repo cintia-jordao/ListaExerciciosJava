@@ -1,10 +1,10 @@
-package exercicio07;
+package Exercicio07;
 
 import java.util.ArrayList;
 import java.util.List;
 
 // Exercício 7 da lista: Continente composto por países
-public class exercicio07 {
+public Class Exercicio07 {
     public static void main(String[] args) {
         Continente america = new Continente("América do Sul");
         america.adicionarPais(new Pais("BRA", "Brasil", 203000000, 8515767));
