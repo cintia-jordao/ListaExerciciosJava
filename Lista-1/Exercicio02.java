@@ -1,7 +1,7 @@
 package exercicio02;
 
 // Exercício 2: Ponto no plano cartesiano
-public class exercicio02 {
+public Class Exercicio02 {
     private double x;
     private double y;
 
