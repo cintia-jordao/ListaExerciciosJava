@@ -1,7 +1,7 @@
-package exercicio03;
+package Exercicio03;
 
 // Exercício 3: Número complexo
-public class exercicio03 {
+public Class Exercicio03 {
     private double real;
     private double imaginario;
 
