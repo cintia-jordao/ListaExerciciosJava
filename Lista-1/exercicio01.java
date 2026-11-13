@@ -1,7 +1,7 @@
 package exercicio01;
 
 // Exercício 1: Contador
-public class exercicio01 {
+public Class exercicio01 {
     private int valor;
 
     public Exercicio01() {
