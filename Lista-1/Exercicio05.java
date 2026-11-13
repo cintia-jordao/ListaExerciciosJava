@@ -1,7 +1,7 @@
-package exercicio05;
+package Exercicio05;
 
 // Exercício 5: Círculo no plano cartesiano
-public class exercicio05 {
+public Class Exercicio05 {
     private double raio;
     private double x;
     private double y;
