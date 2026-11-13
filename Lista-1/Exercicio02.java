@@ -1,4 +1,4 @@
-package exercicio02;
+package Exercicio02;
 
 // Exercício 2: Ponto no plano cartesiano
 public Class Exercicio02 {
