@@ -1,9 +1,9 @@
-package exercicio10;
+package Exercicio10;
 
 import java.util.Arrays;
 
 // Exercício 10: Conjunto de Strings com tamanho variável
-public class exercicio10 {
+public Class Exercicio10 {
     private String[] elementos = new String[0];
 
     public boolean adicionar(String elemento) {
