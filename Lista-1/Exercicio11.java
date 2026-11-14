@@ -1,9 +1,9 @@
-package exercicio11;
+package Exercicio11;
 
 import java.util.Arrays;
 
 // Exercício 11: Matriz com operações
-public class exercicio11 {
+public Class Exercicio11 {
     private int[][] dados;
     private int linhas;
     private int colunas;
