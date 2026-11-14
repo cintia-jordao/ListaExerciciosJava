@@ -1,9 +1,9 @@
-package exercicio09;
+package Exercicio09;
 
 import java.util.Arrays;
 
 // Exercício 9: Conjunto de Strings com tamanho variável
-public class exercicio09 {
+public Class Exercicio09 {
     private String[] elementos;
 
     public Exercicio09() {
