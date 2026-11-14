@@ -1,7 +1,7 @@
-package exercicio08;
+package Exercicio08;
 
 // Exercício 8: Pessoa em uma árvore genealógica
-public class exercicio08 {
+public Class Exercicio08 {
     public static void main(String[] args) {
         Pessoa avo = new Pessoa("Carlos");
         Pessoa mae = new Pessoa("Ana", avo, null);
